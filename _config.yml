@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sifan Wang"
   avatar           : "profile.JPG"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              :  "AI4Science, Scientific Machine Learning"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
