@@ -87,6 +87,15 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2203.07404) [[Code]](https://github.com/PredictiveIntelligenceLab/CausalPINNs)
 
 
+- **Adaptive Training Strategies for Physics-Informed Neural Networks**
+
+  **Sifan Wang**, Paris Perdikaris
+
+  In Knowledge Guided Machine Learning, pp. 133-160. Chapman and Hall/CRC, 2022
+
+  [[Paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003143376-6/adaptive-training-strategies-physics-informed-neural-networks-sifan-wang-paris-perdikaris)
+
+
 
 - **When and Why PINNs Fail to Train: A Neural Tangent Kernel Perspective**
 
@@ -95,6 +104,8 @@ redirect_from:
   Journal of Computational Physics 449 (2022): 110768
 
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S002199912100663X?casa_token=V2xyO-qH_PUAAAAA:KHqDtmrzhj-wt1IrWoqMnsV9T7d0xivvn7oIauBSDHSavA4USqPG2oTP-598LYJYbB2138GDs3Y) [[Code]](https://github.com/PredictiveIntelligenceLab/PINNsNTK)
+
+
 
 
 ## 2021
@@ -118,6 +129,17 @@ redirect_from:
   [[Paper]](https://asmedigitalcollection.asme.org/heattransfer/article/143/6/060801/1104439/Physics-Informed-Neural-Networks-for-Heat-Transfer)
 
 
+
+- **Fast PDE-Constrained Optimization via Self-Supervised Operator Learning**
+
+  **Sifan Wang**, Mohamed Aziz Bhouri, Paris Perdikaris
+
+  arXiv preprint arXiv:2110.13297 (2021)
+
+  [[Paper]](https://arxiv.org/abs/2110.13297) 
+
+
+
 - **Learning the Solution Operator of Parametric Partial Differential Equations with Physics-Informed DeepONets**
 
   **Sifan Wang**, Hanwen Wang, Paris Perdikaris
@@ -125,6 +147,10 @@ redirect_from:
   Science advances 7, no. 40 (2021): eabi8605
 
   [[Paper]](https://www.science.org/doi/full/10.1126/sciadv.abi8605)  [[Code]](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
+
+
+
+
 
 
 - **On the Eigenvector Bias of Fourier Feature Networks: From Regression to Solving Multi-Scale PDEs with Physics-Informed Neural Networks**
