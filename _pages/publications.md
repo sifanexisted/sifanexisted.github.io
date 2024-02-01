@@ -25,7 +25,7 @@ redirect_from:
 
   Jin Wu, **Sifan Wang**, Paris Perdikaris
 
-  Applied Mathematics and Mechanics 44, no. 7 (2023): 1199-1224.
+  Applied Mathematics and Mechanics 44, no. 7 (2023): 1199-1224
 
   [[Paper]](https://link.springer.com/article/10.1007/s10483-023-2998-7) 
 
@@ -34,7 +34,7 @@ redirect_from:
 
   Shunyuan Mao, Ruobing Dong, Lu Lu, Kwang Moo Yi, **Sifan Wang**, and Paris Perdikaris
 
-  The Astrophysical Journal Letters 950, no. 2 (2023): L12.
+  The Astrophysical Journal Letters 950, no. 2 (2023): L12
 
   [[Paper]](https://link.springer.com/article/10.1007/s10483-023-2998-7)  [[Code]](https://github.com/smao-astro/PPDONet)
 
@@ -48,4 +48,12 @@ redirect_from:
   [[Paper]](https://proceedings.mlr.press/v202/daw23a/daw23a.pdf)  [[Code]](https://github.com/arkadaw9/r3_sampling_icml2023)
 
 
+
+- **Long-time integration of parametric evolution equations with physics-informed deeponets**
+
+  **Sifan Wang**, Paris Perdikaris
+
+  Journal of Computational Physics 475 (2023): 111855
+
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999122009184?casa_token=oGITa94YhH0AAAAA:pEud_Hm162nSxTnMmwY6E4HmPG09XL4BkWpPjwHi0t-D1JMhRkUXNacO4CeushTZq29H2d141sM)  [[Code]](https://github.com/PredictiveIntelligenceLab/Long-time-Integration-PI-DeepONets)
 
