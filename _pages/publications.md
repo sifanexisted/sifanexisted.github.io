@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-## 2023
+# 2023
 
 - **An Expert's Guide to Training Physics-Informed Neural Networks**
 
@@ -57,7 +57,7 @@ redirect_from:
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999122009184?casa_token=oGITa94YhH0AAAAA:pEud_Hm162nSxTnMmwY6E4HmPG09XL4BkWpPjwHi0t-D1JMhRkUXNacO4CeushTZq29H2d141sM)  [[Code]](https://github.com/PredictiveIntelligenceLab/Long-time-Integration-PI-DeepONets)
 
 
-## 2022
+# 2022
 
 - **Random Weight Factorization Improves the Training of Continuous Neural Representations**
 
@@ -107,8 +107,7 @@ redirect_from:
 
 
 
-
-## 2021
+# 2021
 
 - **Physics-Informed Machine Learning**
 
@@ -117,7 +116,6 @@ redirect_from:
   Nature Reviews Physics 3, no. 6 (2021): 422-440.
 
   [[Paper]](https://www.nature.com/articles/s42254-021-00314-5)
-
 
 
 - **Physics-Informed Neural Networks for Heat Transfer Problems**
@@ -129,7 +127,6 @@ redirect_from:
   [[Paper]](https://asmedigitalcollection.asme.org/heattransfer/article/143/6/060801/1104439/Physics-Informed-Neural-Networks-for-Heat-Transfer)
 
 
-
 - **Fast PDE-Constrained Optimization via Self-Supervised Operator Learning**
 
   **Sifan Wang**, Mohamed Aziz Bhouri, Paris Perdikaris
@@ -139,7 +136,6 @@ redirect_from:
   [[Paper]](https://arxiv.org/abs/2110.13297) 
 
 
-
 - **Learning the Solution Operator of Parametric Partial Differential Equations with Physics-Informed DeepONets**
 
   **Sifan Wang**, Hanwen Wang, Paris Perdikaris
@@ -147,9 +143,6 @@ redirect_from:
   Science advances 7, no. 40 (2021): eabi8605
 
   [[Paper]](https://www.science.org/doi/full/10.1126/sciadv.abi8605)  [[Code]](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)
-
-
-
 
 
 
@@ -170,7 +163,6 @@ redirect_from:
   Journal of Computational Physics 428 (2021): 109914
 
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999120306884?casa_token=gkHSToEZ7YkAAAAA:z_Z926LpGOLD1kcyW7OhG3ectSatYwkPYJBViZXuvXD3SKsFn8mgJwEHEW_TdoLXZuDaaqSQi1Q)  [[Code]](https://github.com/PredictiveIntelligenceLab/DeepStefan)
-
 
 
 - **Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks**
