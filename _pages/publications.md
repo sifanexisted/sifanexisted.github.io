@@ -57,3 +57,32 @@ redirect_from:
 
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999122009184?casa_token=oGITa94YhH0AAAAA:pEud_Hm162nSxTnMmwY6E4HmPG09XL4BkWpPjwHi0t-D1JMhRkUXNacO4CeushTZq29H2d141sM)  [[Code]](https://github.com/PredictiveIntelligenceLab/Long-time-Integration-PI-DeepONets)
 
+
+## 2022
+
+- **Random weight factorization improves the training of continuous neural representations**
+
+  **Sifan Wang**, Hanwen Wang, Jacob H Seidman,  Paris Perdikaris
+
+  arXiv preprint arXiv:2210.01274
+
+  [[Paper]](https://arxiv.org/abs/2210.01274) 
+
+
+- **Improved architectures and training algorithms for deep operator networks**
+
+  **Sifan Wang**, Hanwen Wang, Paris Perdikaris
+
+  Journal of Scientific Computing, 92(2), p.35
+
+  [[Paper]](https://link.springer.com/article/10.1007/s10915-022-01881-0) [[Code]](https://github.com/PredictiveIntelligenceLab/ImprovedDeepONets)
+
+
+
+- **Respecting causality is all you need for training physics-informed neural networks**
+
+  **Sifan Wang**, Shyam Sankaran, Paris Perdikaris
+
+  arXiv preprint arXiv:2203.07404 (2022)
+
+  [[Paper]](https://arxiv.org/abs/2203.07404) [[Code]](https://github.com/PredictiveIntelligenceLab/CausalPINNs)
