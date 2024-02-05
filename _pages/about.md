@@ -13,3 +13,6 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
+- **[02/2024]** Our new paper on "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" is now available on [arXiv](https://browse.arxiv.org/abs/2402.00326).
+
+- **[01/2024]** Our paper "Respecting causality for training physics-informed neural networks" has been accepted to CMAME.
