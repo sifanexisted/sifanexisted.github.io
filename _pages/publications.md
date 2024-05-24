@@ -8,6 +8,25 @@ redirect_from:
   - /publication.html
 ---
 
+## 2024
+
+- **Bridging Operator Learning and Conditioned Neural Fields: A Unifying Perspective**
+
+  **Sifan Wang***, Jacob H Seidman*, Shyam Sankaran, Hanwen Wang, George J. Pappas, Paris Perdikaris)
+  
+    arXiv preprint arXiv:2405.13998 (2024)
+
+  [[Paper]](https://arxiv.org/abs/2405.13998)   [[Code]](https://github.com/PredictiveIntelligenceLab/cvit)
+
+
+- **PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**
+
+  **Sifan Wang**, Bowen Li, Yuhan Chen, Paris Perdikaris
+
+  arXiv preprint arXiv:2402.00326 (2024)
+
+  [[Paper]](https://arxiv.org/abs/2402.00326)   [[Code]](https://github.com/PredictiveIntelligenceLab/jaxpi/tree/pirate)
+
 
 
 ## 2023
