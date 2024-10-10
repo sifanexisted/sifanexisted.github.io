@@ -14,6 +14,8 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
+- **[09/2024]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is now available on [arXiv](https://arxiv.org/abs/2410.05281).
+
 - **[05/2024]** Our paper "Bridging Operator Learning and Conditioned Neural Fields: A Unifying Perspective" is now available on [arXiv](https://arxiv.org/abs/2405.13998).
 
 - **[02/2024]** Our new paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" is now available on [arXiv](https://browse.arxiv.org/abs/2402.00326).
