@@ -14,7 +14,9 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
-- **[12/2024]** Our new paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" has been accepted to JMLR.
+- **【01/2025】** Our work ["CViT: Continuous Vision Transformer for Operator Learning"](https://openreview.net/forum?id=cRnCcuLvyr) has been accepted to ICLR 2025.
+
+- **[12/2024]** Our  paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" has been accepted to JMLR.
 
 - **[09/2024]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is now available on [arXiv](https://arxiv.org/abs/2410.05281).
 
