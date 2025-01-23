@@ -14,7 +14,7 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
-- **【01/2025】** Our work ["CViT: Continuous Vision Transformer for Operator Learning"](https://openreview.net/forum?id=cRnCcuLvyr) has been accepted to ICLR 2025.
+- **[01/2025]** Our work "CViT: Continuous Vision Transformer for Operator Learning" has been accepted to [ICLR 2025](https://openreview.net/forum?id=cRnCcuLvyr).
 
 - **[12/2024]** Our  paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" has been accepted to JMLR.
 
