@@ -14,6 +14,8 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
+- **[02/2025]** Our new paper "Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective" is now available on [arXiv](https://arxiv.org/abs/2502.00604). 
+
 - **[01/2025]** Our work "CViT: Continuous Vision Transformer for Operator Learning" has been accepted to [ICLR 2025](https://openreview.net/forum?id=cRnCcuLvyr).
 
 - **[12/2024]** Our  paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" has been accepted to [JMLR](https://jmlr.org/papers/v25/24-0313.html).
@@ -24,4 +26,4 @@ News
 
 - **[02/2024]** Our new paper  "PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks" is now available on [arXiv](https://browse.arxiv.org/abs/2402.00326).
 
-- **[01/2024]** Our paper "Respecting causality for training physics-informed neural networks" has been accepted to CMAME.
+  - **[01/2024]** Our paper "Respecting causality for training physics-informed neural networks" has been accepted to CMAME.
