@@ -14,6 +14,8 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
+-**[07/2025]** Our new paper "Simulating Three-dimensional Turbulence with Physics-informed Neural Networks" is now available on [arXiv](https://arxiv.org/abs/2507.08972).
+
 - **[06/2025]** Our new paper "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling" is now available on [arXiv](https://arxiv.org/abs/2506.07902).
 
 - **[05/2025]** Our new paper "TANTE: Time-Adaptive Operator Learning via Neural Taylor Expansion" is now available on [arXiv](https://arxiv.org/abs/2502.08574).
