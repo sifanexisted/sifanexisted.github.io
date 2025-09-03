@@ -14,7 +14,11 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 News
 ======
 
--**[07/2025]** Our new paper "Simulating Three-dimensional Turbulence with Physics-informed Neural Networks" is now available on [arXiv](https://arxiv.org/abs/2507.08972).
+- **[09/2025]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is is  accepted by CMAME.
+
+- **[08/2025]** Our  paper "Sharp-PINNs: Staggered hard-constrained physics-informed neural networks for phase field modelling of corrosion" is  accepted by CMAME.
+
+- **[07/2025]** Our new paper "Simulating Three-dimensional Turbulence with Physics-informed Neural Networks" is now available on [arXiv](https://arxiv.org/abs/2507.08972).
 
 - **[06/2025]** Our new paper "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling" is now available on [arXiv](https://arxiv.org/abs/2506.07902).
 
