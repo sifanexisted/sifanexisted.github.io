@@ -13,8 +13,9 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 
 News
 ======
+- **[03/2026]** Our  paper "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling" is accepted by Nature Communications.
 
-- **[9/2025]** Our work "Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective" has been accepted to NeurIPS 2025.
+- **[09/2025]** Our work "Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective" has been accepted to NeurIPS 2025.
 
 - **[09/2025]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is  accepted by CMAME.
 
