@@ -13,13 +13,16 @@ I obtained my PhD degree in [Applied Mathematics and Computational Science](http
 
 News
 ======
-- **[03/2026]** Our  paper "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling" is accepted by Nature Communications.
 
-- **[09/2025]** Our work "Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective" has been accepted to NeurIPS 2025.
+- **[04/2026]** Our new paper "When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions" is now available on [arXiv](https://arxiv.org/abs/2604.23528).
 
-- **[09/2025]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is  accepted by CMAME.
+- **[03/2026]** Our  paper "FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling" is accepted by [Nature Communications](https://www.nature.com/articles/s41467-026-72292-0).
 
-- **[08/2025]** Our paper "Sharp-PINNs: Staggered hard-constrained physics-informed neural networks for phase field modelling of corrosion" is  accepted by CMAME.
+- **[09/2025]** Our work "Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective" has been accepted to [NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/116510).
+
+- **[09/2025]** Our paper "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials" is accepted by [CMAME](https://www.sciencedirect.com/science/article/pii/S0045782525006450).
+
+- **[08/2025]** Our paper "Sharp-PINNs: Staggered hard-constrained physics-informed neural networks for phase field modelling of corrosion" is  accepted by [CMAME](https://www.sciencedirect.com/science/article/pii/S0045782525006188).
 
 - **[07/2025]** Our new paper "Simulating Three-dimensional Turbulence with Physics-informed Neural Networks" is now available on [arXiv](https://arxiv.org/abs/2507.08972).
 
